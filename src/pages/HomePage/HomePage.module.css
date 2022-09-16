@@ -1,0 +1,13 @@
+.hero{
+    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), url(../../images/product-1301010049.jpg));
+}
+
+.title{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 56px;
+    padding-top: 30px;
+}
